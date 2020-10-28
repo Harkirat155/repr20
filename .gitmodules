@@ -1,0 +1,3 @@
+[submodule "deeplog"]
+	path = deeplog
+	url = https://github.com/Harkirat155/deeplog.git
